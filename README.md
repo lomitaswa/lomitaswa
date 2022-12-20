@@ -19,7 +19,7 @@ My Github Stats:
 <br>
 
 <p align = "center">
-  <img src = "github-readme-stats-cyan-zeta-75.vercel.app/api?username=lomitaswa&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats-cyan-zeta-75.vercel.app/api?username=lomitaswa&show_icons=true&theme=radical&line_height=27">
 </p>
 
 [![@lomitaswa's Holopin board](https://holopin.io/api/user/board?user=lomitaswa)](https://holopin.io/@lomitaswa)
