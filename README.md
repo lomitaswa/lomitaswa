@@ -1,8 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Lomitaswa</h1>
-<h3 align="left">An ardent web developer </h3>
-
-- 🌱 I’m currently learning **Java**
+<h3 align="left">An ardent Software Engineer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,16 +12,8 @@
 </p>
 
 ---
-My Github Stats: 
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats-cyan-zeta-75.vercel.app/api?username=lomitaswa&show_icons=true&theme=radical&line_height=27">
-</p>
 
 [![@lomitaswa's Holopin board](https://holopin.io/api/user/board?user=lomitaswa)](https://holopin.io/@lomitaswa)
-
 
 ---
 
